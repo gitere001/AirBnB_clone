@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 """This is the base module containing all common attributes/methods
 for other classes"""
 import uuid
