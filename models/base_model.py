@@ -63,10 +63,3 @@ class BaseModel:
         """
         class_name = self.__class__.__name__
         return f"[{class_name}] ({self.id}) {self.__dict__}"
-
-
-if __name__ == "__main__":
-    my_model = BaseModel()
-    # print(my_model)
-    model_dict = my_model.to_dict()
-    print(model_dict)
