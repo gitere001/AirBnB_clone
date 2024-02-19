@@ -1,0 +1,19 @@
+article h2 ,
+.price_by_night{
+	display: inline-flex;
+
+}
+
+.price_by_night{
+	color: #FF5A5F;
+	border: solid #FF5A5F;
+	border-radius: 50%;
+	min-width: 60px;
+	height: 60px;
+	font-size: 30;
+	line-height: 50px;
+	padding: 10px;
+	margin-left: 40px;
+	text-align: center;
+
+}
